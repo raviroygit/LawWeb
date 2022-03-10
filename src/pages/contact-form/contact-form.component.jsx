@@ -11,16 +11,19 @@ const ContactForm = () => {
             <h1 className="pt-3 text-center font-details-b pb-3 text-white"> CONTACT ME</h1>
             <Jumbotron className="contact-jumbotron">
                 <br />
+                <div className="m-2">
+                    <h3 className="text-center" style={{ color: "white" }}>Office Address:</h3>
+                    <p className="text-center" style={{ color: "white" }}>
+                        1271 12th floor aggarwal millennium tower 2,
+                        <br />
+                        Netaji subhash place new delhi (110034).
+                    </p>
+                    <br />
+                    <br />
+                </div>
                 <Row>
+
                     <Col className="d-flex justify-content-center flex-wrap">
-                    <div className="m-2">
-                            <p className="text-center">>
-                            1271 12th floor aggarwal millennium tower 2,
-                             Netaji subhash place new delhi (110034).
-                            </p>
-                            <br/>
-                            <br/>
-                        </div>
                         <div className="m-2">
                             <a href="mailto:professionalshieldllp@gmail.com" target="_blank" rel="noopener noreferrer">
                                 <Button variant="outline-danger" title="professionalshieldllp@gmail.com">
