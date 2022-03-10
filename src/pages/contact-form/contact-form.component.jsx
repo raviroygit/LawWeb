@@ -14,7 +14,7 @@ const ContactForm = () => {
                 <Row>
                     <Col className="d-flex justify-content-center flex-wrap">
                         <div className="m-2">
-                            <a href="mailto:ravi93448@yahoo.com" target="_blank" rel="noopener noreferrer">
+                            <a href="mailto:professionalshieldllp@gmail.com" target="_blank" rel="noopener noreferrer">
                                 <Button variant="outline-danger" title="professionalshieldllp@gmail.com">
                                     <i className="fas fa-envelope-square"></i> Email Me
                                 </Button>
