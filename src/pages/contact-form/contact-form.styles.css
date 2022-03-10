@@ -1,0 +1,7 @@
+.contact-jumbotron {
+    background-image: url("../../assets/img/background/techbackground.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(16, 16, 19);
+}
