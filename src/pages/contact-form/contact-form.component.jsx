@@ -13,6 +13,14 @@ const ContactForm = () => {
                 <br />
                 <Row>
                     <Col className="d-flex justify-content-center flex-wrap">
+                    <div className="m-2">
+                            <p className="text-center">>
+                            1271 12th floor aggarwal millennium tower 2,
+                             Netaji subhash place new delhi (110034).
+                            </p>
+                            <br/>
+                            <br/>
+                        </div>
                         <div className="m-2">
                             <a href="mailto:professionalshieldllp@gmail.com" target="_blank" rel="noopener noreferrer">
                                 <Button variant="outline-danger" title="professionalshieldllp@gmail.com">
